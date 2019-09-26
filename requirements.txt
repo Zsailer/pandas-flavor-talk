@@ -1,7 +1,9 @@
+xlrd
 numpy
 matplotlib
 pandas
 pandas_flavor
+pyjanitor
 vega
 phylovega
 phylopandas
